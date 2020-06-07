@@ -10,3 +10,4 @@ Test Setup              Abrir Sessão
 Cenario I - obter elementos da pagina de busca
     Entrar no site com a url da busca
     Verificar o numero de resultados
+    Verificar List ou Grid
