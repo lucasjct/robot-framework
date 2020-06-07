@@ -10,6 +10,6 @@ Test Teardown            Encerrar Sessão
 *** Test Case ***
 
 Scenario One - Check data table
-    Given user be in the page's table
+    Given user be in the table's page
     When the user access one value
-    Then the robot should return the value acessed
+    Then should be return the value acessed
