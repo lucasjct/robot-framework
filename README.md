@@ -1,6 +1,8 @@
 # robot-framework
 Practices web automation with Robot Framework
 
+(gif-robot.gif)
+
 
 ####  Para instalar o Robot e rodar o projetos localmente:  
 
