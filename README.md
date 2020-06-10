@@ -4,7 +4,7 @@ Practices web automation with Robot Framework
 ![Robot Gif](gif-robot.gif)
 
 
-####  Para instalar o Robot e rodar o projetos localmente:  
+####  Para instalar o Robot e rodar o projeto localmente:  
 
 #### 1. Instalar [Geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.26.0) e Clonar o Projeto  
    1.1 Caso haja dúvidas sobre como instalar o Geckodriver no Ubuntu, siga este [tutorial](https://medium.com/beelabsolutions/baixando-e-configurando-o-geckodriver-no-ubuntu-dc2fe14d91c)  
