@@ -7,7 +7,7 @@ Library                 SeleniumLibrary
 
 *** Variable ***
 
-${BROWSER}              chrome 
+${BROWSER}              firefox 
 ${URL}                  https://training-wheels-protocol.herokuapp.com/  
 ${CLICKCHECK}           xpath://*[@id="content"]/ul/li[2]/a 
 ${TOR}                  id=thor                 
