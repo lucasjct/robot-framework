@@ -17,4 +17,4 @@ Practices web automation with Robot Framework
 #### 4. Conferir se libraries estão instaladas corretamente:  
      `pip freeze`
 #### 5. Rodar o teste com:  
-   `robot <arquivoTest.robot>`
+   `robot -d results <arquivoTest.robot>`
