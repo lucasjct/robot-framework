@@ -15,6 +15,6 @@ Practices web automation with Robot Framework
    3.1 `pip install robotframework`  
    3.2 `pip install robotframework-seleniumlibrary`  
 #### 4. Conferir se libraries estão instaladas corretamente:  
-     `pip freeze`
+`pip freeze`
 #### 5. Rodar o teste com:  
    `robot -d results <arquivoTest.robot>`
